@@ -108,3 +108,5 @@ External IP is not populated - [https://github.com/kubernetes/kubernetes/issues/
 
 Solution:
 Remove "[kubernetes.io/cluster/](http://kubernetes.io/cluster/)<CLUSTER_NAME>" of security group "EKS node shared security group"
+
+https://www.dropbox.com/s/qhayvn8sccf1amt/project-files.zip?dl=0
